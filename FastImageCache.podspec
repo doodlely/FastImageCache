@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.author             = { "Mallory Paine" => "mpaine@gmail.com" }
   s.social_media_url   = "http://twitter.com/Padraig"
   
-  s.platform     = :ios, "10.3"
+  s.platform     = :ios, "10.0"
   s.source       = { :git => "https://github.com/supertop/FastImageCache.git", :branch => "master" }
 
   s.source_files  = ["FastImageCache/FastImageCache/**/*.{h,m}"]  
